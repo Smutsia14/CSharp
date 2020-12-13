@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//Script para movimentação da camera com o Mouse
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
