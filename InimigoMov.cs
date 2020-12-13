@@ -1,4 +1,7 @@
-﻿using System.Collections;
+
+//Scrip Usado para criação de movimentação para um inimigo com NavMeshAgent
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
