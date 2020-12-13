@@ -1,4 +1,7 @@
-﻿using System.Collections;
+
+//Script para Movimentação do Player
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
